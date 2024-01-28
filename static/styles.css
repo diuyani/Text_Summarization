@@ -1,0 +1,54 @@
+.jumbotron{
+    background-color: rgb(9, 167, 167);
+}
+
+.original_title{
+    background-color: #99ddf2;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+     
+}
+.summary_title{
+    background-color: #99ddf2;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+     
+}
+.srt{
+    display: flex;
+    flex-direction: row;
+}
+
+.originaltxt{
+    background-color: white;
+    border: 2px solid teal;
+    padding: 20px;
+}
+.summarytxt{
+    background-color:white;
+    border: 2px solid teal;
+    padding: 20px;
+    margin-left: 10px;
+}
+.heading{
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.lead{
+    display: flex;
+    justify-content: center;
+}
+.submit{
+    margin-top: 10px;
+}
+.form-control
+{
+    height: 310px;
+}
